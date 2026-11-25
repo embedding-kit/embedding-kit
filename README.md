@@ -20,6 +20,7 @@ Use Embedding Kit when you want to move from tabular molecular data (RNA-seq, pr
 - **Normalization utilities** — Min-max and exponential min-max normalization for expression matrices.
 - **Device auto-detection** — Runs on CPU, CUDA, or Apple Metal GPUs.
 - **Python API** — Composable layers, losses, and model factories for custom pipelines beyond the CLI.
+- **Spatial & analysis utilities** — Niche aggregation, image-tile extraction, spatially local batches, sample matching and MNN anchors, integrated gradients and seeding.
 
 ## Installation
 

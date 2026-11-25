@@ -41,6 +41,11 @@ nav:
       - Commands:
           - Overview: api/commands/index.md
           - cbio: api/commands/cbio.md
+      - Analysis:
+          - Spatial: api/analysis/spatial.md
+          - Matching: api/analysis/matching.md
+          - Interpretability: api/analysis/interpret.md
+          - Usage Guide: guides/spatial_analysis.md
       - BMEG: api/bmeg.md
       - Pathway: api/pathway.md
 
