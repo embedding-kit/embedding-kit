@@ -21,7 +21,9 @@ nav:
           - NetVAE: api/models/net_vae.md
       - Training:
           - Optimize: api/optimize.md
-      - Preprocessing: api/preprocessing.md
+      - Preprocessing:
+          - Reference: api/preprocessing.md
+          - Assay Data Guide: guides/assay_preprocessing.md
       - Layers:
           - Overview: api/layers/layers.md
           - Layer Info: api/layers/layer_info.md
