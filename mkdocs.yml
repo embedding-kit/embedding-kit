@@ -35,6 +35,9 @@ nav:
           - Overview: api/constraints/index.md
       - Metrics:
           - Distance: api/metrics/distance.md
+          - Integration: api/metrics/alignment.md
+          - Reconstruction: api/metrics/reconstruction.md
+          - Evaluation Guide: guides/evaluating_integration.md
       - Estimator:
           - Overview: api/estimator/index.md
           - VAE Estimator: api/estimator/vae_estimator.md

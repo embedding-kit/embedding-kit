@@ -19,6 +19,7 @@ Use Embedding Kit when you want to move from tabular molecular data (RNA-seq, pr
 - **Protein embeddings** — Generate sequence embeddings from FASTA files using ESM2 models.
 - **Normalization utilities** — Min-max and exponential min-max normalization for expression matrices.
 - **Device auto-detection** — Runs on CPU, CUDA, or Apple Metal GPUs.
+- **Integration metrics** — FOSCTTM, recall@k, modality mixing and entropy, and per-feature reconstruction scores for evaluating embeddings.
 - **Python API** — Composable layers, losses, and model factories for custom pipelines beyond the CLI.
 
 ## Installation
