@@ -15,6 +15,7 @@ Use Embedding Kit when you want to move from tabular molecular data (RNA-seq, pr
 ## Features
 
 - **VAE & NetVAE training** — Train variational autoencoders, including pathway-constrained NetVAE models, from tabular or HDF5 matrices.
+- **Count likelihoods & alignment losses** — Poisson and negative binomial VAE losses, NLLs for ZINB, beta, binomial and beta-binomial data, plus InfoNCE, MMD and pairwise alignment losses.
 - **Beta-KL scheduling** — Schedule the KL-regularization weight across training epochs for stable convergence.
 - **Protein embeddings** — Generate sequence embeddings from FASTA files using ESM2 models.
 - **Normalization utilities** — Min-max and exponential min-max normalization for expression matrices.
