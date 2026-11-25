@@ -16,6 +16,7 @@ Use Embedding Kit when you want to move from tabular molecular data (RNA-seq, pr
 
 - **VAE & NetVAE training** — Train variational autoencoders, including pathway-constrained NetVAE models, from tabular or HDF5 matrices.
 - **Beta-KL scheduling** — Schedule the KL-regularization weight across training epochs for stable convergence.
+- **Hyperbolic latent geometry** — Geodesic distances, wrapped-normal sampling, label-tree scoring, cluster trees and pseudotime for hyperbolic and product latent spaces, plus geometry-aware kNN label transfer, label purity and batch mixing.
 - **Protein embeddings** — Generate sequence embeddings from FASTA files using ESM2 models.
 - **Normalization utilities** — Min-max and exponential min-max normalization for expression matrices.
 - **Device auto-detection** — Runs on CPU, CUDA, or Apple Metal GPUs.

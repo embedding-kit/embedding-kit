@@ -34,6 +34,7 @@ nav:
       - Constraints:
           - Overview: api/constraints/index.md
       - Metrics:
+          - Neighbourhood: api/metrics/neighbors.md
           - Distance: api/metrics/distance.md
       - Estimator:
           - Overview: api/estimator/index.md
@@ -43,6 +44,10 @@ nav:
           - cbio: api/commands/cbio.md
       - BMEG: api/bmeg.md
       - Pathway: api/pathway.md
+      - Latent Geometry:
+          - Overview: api/geometry.md
+          - Hierarchy: api/analysis/hierarchy.md
+          - Usage Guide: guides/latent_geometry.md
 
 theme: readthedocs
 
