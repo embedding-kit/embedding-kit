@@ -14,6 +14,7 @@ Use Embedding Kit when you want to move from tabular molecular data (RNA-seq, pr
 
 ## Features
 
+- **Model building blocks** — Convolutional VAE backbone/decoder for image tiles and 1-D signals, product-of-experts fusion, gradient reversal and a Gaussian HMM.
 - **VAE & NetVAE training** — Train variational autoencoders, including pathway-constrained NetVAE models, from tabular or HDF5 matrices.
 - **Beta-KL scheduling** — Schedule the KL-regularization weight across training epochs for stable convergence.
 - **Protein embeddings** — Generate sequence embeddings from FASTA files using ESM2 models.

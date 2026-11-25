@@ -19,6 +19,7 @@ nav:
           - VAE: api/models/vae.md
           - RNAVAE: api/models/rna_vae.md
           - NetVAE: api/models/net_vae.md
+          - Gaussian HMM: api/models/hmm.md
       - Training:
           - Optimize: api/optimize.md
       - Preprocessing: api/preprocessing.md
@@ -28,6 +29,10 @@ nav:
           - Masked Linear: api/layers/masked_linear.md
           - Pairwise Comparison: api/layers/pairwise_comparison_layer.md
           - Top Scoring Pair: api/layers/tsp.md
+          - Conv Backbone / Decoder: api/layers/conv.md
+          - Product of Experts: api/layers/fusion.md
+          - Gradient Reversal: api/layers/grad_reverse.md
+          - Usage Guide: guides/building_blocks.md
       - Losses:
           - Overview: api/losses/index.md
           - VAE Loss: api/losses/vae_loss.md
